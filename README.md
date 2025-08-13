@@ -1,18 +1,27 @@
 # Airline-Reviews-Analysis-Dashboard-Tableau
 
 ## 📌 Overview
-- This *Tableau* dashboard offers a comprehensive analysis of COVID-19 data that was explored and structured in *SQL*. <br>
-- The dashboard provides a detailed examination of global cases, mortality statistics, and infection trends over time. <br>
-- The *SQL* analysis done before Tableau focuses on  infection rates, death percentages, vaccination trends, and country-specific insights. The queries demonstrate advanced SQL techniques like **window functions, CTEs, temporary tables, and views**.
+- This *Tableau* dashboard explores public airline reviews to understand passenger experience and satisfaction.. <br>
+- It brings together key KPIs (average rating, % recommended, total reviews) with interactive visuals so you can spot trends over time, compare airlines and routes, and quickly see what customers like or dislike. <br>
+- The dashboard focuses on clarity, fast filtering, and practical insights for customer experience teams.
 
 ## Interactive Dashboard:
 
 **Click the dashboard to explore the interactive version** <br>
 
-[![Airline Reviews Dashboard](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Global-Pandemic-Tracker/Pandemic-Tracker-Dashboard.png?raw=true)](https://public.tableau.com/app/profile/edwinsamuel7/viz/Covid-Dashboard_from-sql/Dashboard1)
+[![Airline Reviews Dashboard](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Global-Pandemic-Tracker/Pandemic-Tracker-Dashboard.png?raw=true)](https://public.tableau.com/app/profile/edwinsamuel7/viz/Singapore_Ailrlines_packaged_workbook/Dashboard12)
 ​
-## Key highlights
-- **Global Overview:** An interactive map visualizes the geographical spread of infection rates by country, highlighting regions with the highest case counts and mortality rates.
-- **Mortality Analysis:** Comparative mortality statistics across different continents showcase the variation in death tolls and case fatality rates.
-- **Infection Trends:** Dynamic line charts and bar graphs depict infection trends over time, enabling users to observe the rise and fall of cases in various regions.
-- **Continental Comparison:** Detailed breakdowns of COVID-19 impacts on different continents, including case counts, deaths, and recovery rates.
+## Features
+- **KPIs at a glance:** Average rating, % recommended, total reviews, recent change.
+- **Rating distribution:** Histogram of star ratings with filterable slices (airline, route, cabin class, traveler type).
+- **Airline & route comparison:** Side-by-side charts to benchmark airlines, routes, and cabin classes.
+- **Theme breakdown:** Categorical view of common review topics (e.g., staff service, seat comfort, food, punctuality) to surface top pain points and strengths.
+- **Interactive filtering:** Quick filters for airline, route, cabin class, traveler type, and date; tooltip details and highlight actions for fast drill-downs.
+
+## Impact
+- **Faster decisions:** Identify the biggest drivers of low and high ratings to prioritize CX improvements.
+- **Rating distribution:** Histogram of star ratings with filterable slices (airline, route, cabin class, traveler type).
+- **Benchmarking:** Compare airlines and routes to track performance and competitive position.
+- **Monitoring:** Watch rating/recommendation trends to catch emerging issues early.
+
+*Demonstrates end-to-end BI skills—data understanding, metric design, and clear storytelling in Tableau.*
