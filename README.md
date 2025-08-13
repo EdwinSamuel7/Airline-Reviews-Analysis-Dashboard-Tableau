@@ -9,8 +9,11 @@
 
 **Click the dashboard to explore the interactive version** <br>
 
-[![Airline Reviews Dashboard](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Global-Pandemic-Tracker/Pandemic-Tracker-Dashboard.png?raw=true)](https://public.tableau.com/app/profile/edwinsamuel7/viz/Singapore_Ailrlines_packaged_workbook/Dashboard12)
-​
+[![Airline Reviews Dashboard](https://github.com/EdwinSamuel7/Airline-Reviews-Analysis-Dashboard-Tableau/blob/main/Airline-Reviews-Dashboad.png)](https://public.tableau.com/app/profile/edwinsamuel7/viz/Singapore_Ailrlines_packaged_workbook/Dashboard12)
+
+https://github.com/EdwinSamuel7/Airline-Reviews-Analysis-Dashboard-Tableau/blob/main/Airline-Reviews-Dashboad.png
+https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Global-Pandemic-Tracker/Pandemic-Tracker-Dashboard.png?raw=true
+
 ## Features
 - **KPIs at a glance:** Average rating, % recommended, total reviews, recent change.
 - **Rating distribution:** Histogram of star ratings with filterable slices (airline, route, cabin class, traveler type).
