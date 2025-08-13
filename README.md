@@ -1,7 +1,7 @@
 # Airline-Reviews-Analysis-Dashboard-Tableau
 
 ## 📌 Overview
-- This *Tableau* dashboard explores public airline reviews to understand passenger experience and satisfaction.. <br>
+- This *Tableau* dashboard explores public airline reviews to understand passenger experience and satisfaction. <br>
 - It brings together key KPIs (average rating, % recommended, total reviews) with interactive visuals so you can spot trends over time, compare airlines and routes, and quickly see what customers like or dislike. <br>
 - The dashboard focuses on clarity, fast filtering, and practical insights for customer experience teams.
 
